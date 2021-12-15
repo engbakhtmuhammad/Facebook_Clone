@@ -1,18 +1,6 @@
 # facebook_clone
+![template](https://user-images.githubusercontent.com/55682574/146224771-acb1bdd7-e89a-40ba-a500-bf8d31ebcd82.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ![Screenshot_20210908-224355](https://user-images.githubusercontent.com/77039175/132559491-995cc5c4-1c57-49d6-8545-ce1564efe60a.jpg)
 ![Screenshot_20210908-224358](https://user-images.githubusercontent.com/77039175/132559588-7ab414fd-d10e-4288-8be4-c8cdc8cb112b.jpg)
